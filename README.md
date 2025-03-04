@@ -29,19 +29,19 @@ This Python script generates a random string of letters (both uppercase and lowe
 # Bug Fixes
 1. Input Validation Fix
    
-✅ Bug: The original code lacked validation for the length parameter.
+Bug: The original code lacked validation for the length parameter.
 
 
-✅ Fix: Added a check to ensure length is a positive integer.
+Fix: Added a check to ensure length is a positive integer.
 
 
 
 2. Missing Import Fix
    
-✅ Bug: The original code did not include import string, which caused string.ascii_letters to fail.
+Bug: The original code did not include import string, which caused string.ascii_letters to fail.
 
 
-✅ Fix: Added:import string to the import section 
+Fix: Added:import string to the import section 
 
 
 **********************Go through Bugfix(Randomtextgeneration.py) ****************
